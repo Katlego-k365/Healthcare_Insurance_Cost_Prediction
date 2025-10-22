@@ -2,7 +2,7 @@
 
 An **end-to-end Machine Learning + Streamlit project** that predicts an individual’s **annual health insurance premium** using demographic and health-related information.
 
-- 🧠 **Model:** Random Forest Regression (trained on the *Medical Cost Personal Dataset*)  
+- 🧠 **Model:** Random Forest Regression (trained on the *insurance Dataset*)  
 - 🚀 **Deployment:** Streamlit  
 - 📓 **Development:** Jupyter Notebook  
 
