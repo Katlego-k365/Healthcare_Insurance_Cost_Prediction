@@ -37,8 +37,6 @@ The workflow includes **data exploration**, **feature engineering**, **model tra
 ![Feature Importance](feature_importance.png)
 
 
-📓 Full notebook: `Healthcare_Insurance_Cost_Prediction.ipynb`
-
 ---
 
 ## 🧠 Key Features
