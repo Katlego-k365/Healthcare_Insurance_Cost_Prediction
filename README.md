@@ -9,7 +9,7 @@ An **end-to-end Machine Learning + Streamlit project** that predicts an individu
 ---
 
 ## 🔗 Live App
-👉 [Try the App on Streamlit](#)
+👉 [Try the App on Streamlit](https://healthcareinsurancecostprediction-hpz4fwmfjeojrqzxpnzk3e.streamlit.app/)
 
 ---
 
