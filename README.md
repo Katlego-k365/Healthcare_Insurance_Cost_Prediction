@@ -31,10 +31,10 @@ The workflow includes **data exploration**, **feature engineering**, **model tra
 ## 📊 Sample Visualizations
 
 ### 📈 Region vs Charges (Boxplot)
-[Try the App on Streamlit](#)
+[Region vs charges](region_vs_charges)
 
-### 🌲 Feature Importance (Random Forest)
-[Try the App on Streamlit](#)
+### Feature Importance (Random Forest)
+[Feature Importance](feature_importance)
 
 📓 Full notebook: `Healthcare_Insurance_Cost_Prediction.ipynb`
 
